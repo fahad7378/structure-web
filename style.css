@@ -1,21 +1,12 @@
 nav > ul > li{
     display:inline;
-    margin-right: 10px;
+    margin-right:10px;
+}
+nav li>a{
+    text-decoration: none;
+    color:red;
+    font-size:26px;
 }
 nav > ul{
-    text-align: center;
-}
-nav li > a{
-    text-decoration: none;
-    color:blueviolet;
-    font-size: 26px;
-    font-weight: bold;
-}
-footer{
-    text-align: center;
-    margin-top:50px;
-}
-label{
-    display:block;
-    margin-bottom: 10px;
+    text-align:center;
 }
