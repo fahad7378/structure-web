@@ -13,9 +13,15 @@ nav > ul{
 b{
     font-size:30px;
 }
-footer >p{
+
+footer {
+    margin-top:30px;
     text-align:center;
 }
-.footer {
-    margin-top:50px;
+label{
+    display:block;
+    margin-top:15px;
+}
+fieldset{
+    margin-top:20px;
 }
