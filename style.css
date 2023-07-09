@@ -10,3 +10,12 @@ nav li>a{
 nav > ul{
     text-align:center;
 }
+b{
+    font-size:30px;
+}
+footer >p{
+    text-align:center;
+}
+.footer {
+    margin-top:50px;
+}
